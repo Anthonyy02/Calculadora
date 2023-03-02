@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #B4E1FF;
+    
+}
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
